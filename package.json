@@ -1,0 +1,22 @@
+{
+  "name": "cameraapp",
+  "version": "1.0.0",
+  "description": "this is a basic android app to access image clicked by phone camera",
+  "main": "MainActivity.java",
+  "scripts": {
+    "test": "echo hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderMayhem/CameraApp.git"
+  },
+  "keywords": [
+    "Naman"
+  ],
+  "author": "CoderMayhem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoderMayhem/CameraApp/issues"
+  },
+  "homepage": "https://github.com/CoderMayhem/CameraApp#readme"
+}
